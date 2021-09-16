@@ -49,7 +49,6 @@ void main() {
                 Flexible(child: MyColumn()),
                 Flexible(child: MyRow()),
                 Flexible(child: MyList()),
-                Flexible(child: Greet())
               ],
             )
 
